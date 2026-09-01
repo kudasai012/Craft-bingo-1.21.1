@@ -1,2 +1,9 @@
-# Craft-bingo-1.21.1
-Бинго в Minecraft — выбивай предметы, закрывай клетки, соревнуйся с друзьями!  Мод добавляет в Minecraft режим Бинго: у каждого игрока своя карточка с предметами. Добудь предмет — клетка закрашивается. Кто первый закроет ряд, столбец или диагональ — тот победил!
+# BingoMod
+
+## Setup
+
+For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+
+## License
+
+This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
